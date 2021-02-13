@@ -1,0 +1,50 @@
+2021-02-13 13:02:44.085  INFO 20916 --- [restartedMain] com.bank.payments.BankingApplication     : Starting BankingApplication using Java 1.8.0_92 on DESKTOP-1VBDNG0 with PID 20916 (C:\Users\XYZA\Downloads\customer-account\target\classes started by XYZA in C:\Users\XYZA\Downloads\customer-account)
+2021-02-13 13:02:44.085  INFO 20916 --- [restartedMain] com.bank.payments.BankingApplication     : No active profile set, falling back to default profiles: default
+2021-02-13 13:02:44.297  INFO 20916 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-02-13 13:02:44.331  INFO 20916 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 17 ms. Found 2 JPA repository interfaces.
+2021-02-13 13:02:44.394  INFO 20916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2021-02-13 13:02:44.394  INFO 20916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-13 13:02:44.394  INFO 20916 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-13 13:02:44.416  INFO 20916 --- [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-02-13 13:02:44.416  INFO 20916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 331 ms
+2021-02-13 13:02:44.453  INFO 20916 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-02-13 13:02:44.468  INFO 20916 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-15 - Starting...
+2021-02-13 13:02:44.484  INFO 20916 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-15 - Start completed.
+2021-02-13 13:02:44.484  INFO 20916 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2021-02-13 13:02:44.659  INFO 20916 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-02-13 13:02:44.659  INFO 20916 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-13 13:02:44.664  INFO 20916 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-02-13 13:02:44.796  WARN 20916 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-02-13 13:02:44.829  INFO 20916 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-13 13:02:45.030  INFO 20916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2021-02-13 13:02:45.044  INFO 20916 --- [restartedMain] com.bank.payments.BankingApplication     : Started BankingApplication in 0.997 seconds (JVM running for 548.726)
+2021-02-13 13:02:45.044  INFO 20916 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-02-13 13:02:46.777  INFO 20916 --- [Thread-91] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-13 13:02:46.787  INFO 20916 --- [Thread-91] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-13 13:02:46.788  INFO 20916 --- [Thread-91] com.zaxxer.hikari.HikariDataSource       : HikariPool-15 - Shutdown initiated...
+2021-02-13 13:02:46.797  INFO 20916 --- [Thread-91] com.zaxxer.hikari.HikariDataSource       : HikariPool-15 - Shutdown completed.
+2021-02-13 13:02:46.991  INFO 20916 --- [restartedMain] com.bank.payments.BankingApplication     : Starting BankingApplication using Java 1.8.0_92 on DESKTOP-1VBDNG0 with PID 20916 (C:\Users\XYZA\Downloads\customer-account\target\classes started by XYZA in C:\Users\XYZA\Downloads\customer-account)
+2021-02-13 13:02:46.991  INFO 20916 --- [restartedMain] com.bank.payments.BankingApplication     : No active profile set, falling back to default profiles: default
+2021-02-13 13:02:47.175  INFO 20916 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-02-13 13:02:47.191  INFO 20916 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 2 JPA repository interfaces.
+2021-02-13 13:02:47.273  INFO 20916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2021-02-13 13:02:47.276  INFO 20916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-13 13:02:47.276  INFO 20916 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-13 13:02:47.276  INFO 20916 --- [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-02-13 13:02:47.276  INFO 20916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 285 ms
+2021-02-13 13:02:47.307  INFO 20916 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-02-13 13:02:47.322  INFO 20916 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-16 - Starting...
+2021-02-13 13:02:47.338  INFO 20916 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-16 - Start completed.
+2021-02-13 13:02:47.338  INFO 20916 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2021-02-13 13:02:47.440  INFO 20916 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-02-13 13:02:47.447  INFO 20916 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-13 13:02:47.458  INFO 20916 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-02-13 13:02:47.591  WARN 20916 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-02-13 13:02:47.637  INFO 20916 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-13 13:02:47.870  INFO 20916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2021-02-13 13:02:47.876  INFO 20916 --- [restartedMain] com.bank.payments.BankingApplication     : Started BankingApplication in 0.904 seconds (JVM running for 551.56)
+2021-02-13 13:02:47.876  INFO 20916 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-02-13 13:03:24.096  INFO 20916 --- [Thread-97] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-13 13:03:24.108  INFO 20916 --- [Thread-97] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-13 13:03:24.109  INFO 20916 --- [Thread-97] com.zaxxer.hikari.HikariDataSource       : HikariPool-16 - Shutdown initiated...
+2021-02-13 13:03:24.118  INFO 20916 --- [Thread-97] com.zaxxer.hikari.HikariDataSource       : HikariPool-16 - Shutdown completed.
